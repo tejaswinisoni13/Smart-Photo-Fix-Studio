@@ -9,6 +9,9 @@ pinned: false
 ---
 
 # Smart Photo Fix Studio
+## 🚀 Live Demo
+
+🔗 [Smart Photo Fix Studio](https://smart-photo-fix-studio.onrender.com)
 
 An AI-based image enhancement and editing tool built with Flask, rembg, OpenCV, and Pillow.
 
