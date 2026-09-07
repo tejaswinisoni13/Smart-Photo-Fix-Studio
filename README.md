@@ -196,6 +196,8 @@ The project demonstrates the practical use of:
 
 ## Team
 Tejaswini (AI / Python — background removal, enhancement, filters, compression, denoising)
+
+
 Nidhi (Web Development — frontend UI/UX, live filter previews, integration)
 
 
