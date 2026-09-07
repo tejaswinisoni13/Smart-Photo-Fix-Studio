@@ -1,18 +1,3 @@
----
-title: Smart Photo Fix Studio
-emoji: 🖼️
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
-# Smart Photo Fix Studio
-## 🚀 Live Demo
-
-🔗 [Smart Photo Fix Studio](https://smart-photo-fix-studio.onrender.com)
-
 # Smart Photo Fix Studio
 
 ### AI-Based Image Enhancement & Editing Tool
