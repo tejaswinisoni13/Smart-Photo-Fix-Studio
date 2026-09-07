@@ -40,17 +40,17 @@ Users can upload an image, select an operation, process the image, and download 
 
 ```text
 Upload Image
-      Γåô
+      
 Select Editing Operation
-      Γåô
+      
 Flask Backend
-      Γåô
+      
 Image Processing
-      Γåô
+      
 OpenCV / Pillow / rembg
-      Γåô
+      
 Processed Image
-      Γåô
+      
 Download Result
 ```
 
@@ -77,12 +77,11 @@ Download Result
 
 ```text
 Smart-Photo-Fix-Studio/
-Γöé
-Γö£ΓöÇΓöÇ app.py
-Γö£ΓöÇΓöÇ requirements.txt
-Γö£ΓöÇΓöÇ Dockerfile
-Γö£ΓöÇΓöÇ .gitignore
-ΓööΓöÇΓöÇ README.md
+app.py
+requirements.txt
+Dockerfil
+.gitignore
+README.md
 ```
 
 ### Backend
